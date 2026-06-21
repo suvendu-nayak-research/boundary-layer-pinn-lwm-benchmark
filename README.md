@@ -79,8 +79,11 @@ This repository studies the standard soft-boundary PINN formulation only. It doe
 boundary-layer-pinn-lwm-benchmark/
 ├── LWM_final.ipynb
 ├── PINN_MultiNu_Standard_PINN_Final.ipynb
-└── README.md
+├── README.md
+├── requirements.txt
+└── LICENSE
 ```
+
 
 ### `LWM_final.ipynb`
 
